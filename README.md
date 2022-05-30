@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [portfolio[https://hayatul-emon.netlify.app/]](portfolio[https://hayatul-emon.netlify.app/])
+- 👨‍💻 All of my projects are available at [https://hayatul-emon.netlify.app/](https://hayatul-emon.netlify.app/)
 
 - 📫 How to reach me **hayatulislam28@gmail.com**
 
-- 📄 Know about my experiences [Resume[https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view?usp=sharing]]](Resume[https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view?usp=sharing]])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view?usp=sharing](https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
