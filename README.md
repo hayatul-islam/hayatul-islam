@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hayatul-islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hayatul-islam" alt="hayatul-islam" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://hayatul-emon.netlify.app/](https://hayatul-emon.netlify.app/)
