@@ -1,7 +1,4 @@
 <p align="left"> <img src="https://i.ibb.co/3p4LXJx/linkedin-cover.png" alt="hayatul-islam" /> </p>
-<h1 align="center">Hi 👋, I'm Md Hayatul Islam</h1>
-<h3 align="center">A passionate Front End developer from Bangladesh</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hayatul-islam" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
