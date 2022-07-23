@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://i.ibb.co/3p4LXJx/linkedin-cover.png" alt="hayatul-islam" /> </p>
 <h1 align="center">Hi 👋, I'm Md Hayatul Islam</h1>
 <h3 align="center">A passionate Front End developer from Bangladesh</h3>
 
