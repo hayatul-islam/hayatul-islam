@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://hayatul-emon.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hayatul-islam.netlify.app/)
 
 - 📫 How to reach me **hayatulislam28@gmail.com**
 
@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatul-islam&show_icons=true&locale=en" alt="hayatul-islam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayatul-islam&" alt="hayatul-islam" /></p>
+
 
