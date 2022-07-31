@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hayatul-islam" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://hayatul-islam.netlify.app/)
 
 - 📫 How to reach me **hayatulislam28@gmail.com**
