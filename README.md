@@ -1,13 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Md Hayatul Islam</h1>
 <h3 align="center">A passionate Front End developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hayatul-islam" /> </p>
-
 - 🌱 I’m currently learning **MERN STACK**
 - 👨‍💻 All of my projects are available at [Portfolio](https://hayatul-islam.netlify.app/)
-
 - 📫 How to reach me **hayatulislam28@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayatul-islam&show_icons=true&locale=en&layout=compact" alt="hayatul-islam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatul-islam&show_icons=true&locale=en" alt="hayatul-islam" /></p>
-
-
 
