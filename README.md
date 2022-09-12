@@ -21,5 +21,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayatul-islam&show_icons=true&locale=en&layout=compact" alt="hayatul-islam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatul-islam&show_icons=true&locale=en" alt="hayatul-islam" /></p>
-
-
