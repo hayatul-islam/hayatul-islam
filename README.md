@@ -1,3 +1,4 @@
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatul-islam&show_icons=true&locale=en" alt="hayatul-islam" /></p>
 <h1 align="center">Hi 👋, I'm Md Hayatul Islam</h1>
 <h3 align="center">A passionate Front End developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hayatul-islam" /> </p>
