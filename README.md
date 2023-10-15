@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hayatul-islam.netlify.app/)
-
 - 📫 How to reach me **hayatulislam28@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view?usp=sharing)
