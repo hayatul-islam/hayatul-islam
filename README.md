@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://i.ibb.co/7Y79xXx/Professional-Linked-In-Banner.png" alt="hayatul-islam" /></p>
+<p>&nbsp;<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQG8IPl9Fr-pbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729404338467?e=1735171200&v=beta&t=80HDupbHI_m_rx3qKntW7NwArwFrbuU1JYb4EmDr_PU" alt="hayatul-islam" /></p>
 <h1 align="center">Hi 👋, I'm Md Hayatul Islam</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hayatul-islam" /> </p>
