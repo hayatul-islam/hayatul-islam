@@ -13,6 +13,8 @@
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hayatul-islam)
 
 - 📝 Check out my articles on [Medium](https://medium.com/@hayatul-islam)
+  
+- 💡 Explore my problem-solving journey on [Codewars](https://www.codewars.com/users/hayatul-islam)
 
 
 
