@@ -16,8 +16,8 @@
   
 - 💡 Explore my problem-solving journey on [Codewars](https://www.codewars.com/users/hayatul-islam)
 <div>
-![alt rank](https://www.codewars.com/users/hayatul-islam/badges/large)  
-</div> 
+  <img src="https://www.codewars.com/users/hayatul-islam/badges/large" alt="alt rank">
+</div>
 
 
 
