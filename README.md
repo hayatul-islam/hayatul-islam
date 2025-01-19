@@ -15,7 +15,7 @@
 - 📝 Check out my articles on [Medium](https://medium.com/@hayatul-islam)
   
 - 💡 Explore my problem-solving journey on [Codewars](https://www.codewars.com/users/hayatul-islam)
-<div style="margin-left: 10px;">
+<div style="margin-left: 40px;">
   <img src="https://www.codewars.com/users/hayatul-islam/badges/large" alt="alt rank">
 </div>
 
