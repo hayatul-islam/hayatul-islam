@@ -21,6 +21,3 @@
 - 💡 Explore my problem-solving journey on [Codewars](https://www.codewars.com/users/hayatul-islam)
 
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayatul-islam&theme=dark" alt="hayatul-islam" /> </p>
-
-
-
