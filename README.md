@@ -1,6 +1,6 @@
 <p>&nbsp;<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQG8IPl9Fr-pbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729404338467?e=1747872000&v=beta&t=PEijUYOhVSCrTknIDqJBTPJ55B2ZsGC8NtDF4zK8uWI" /></p>
 
-<h1 align="center">Hi 👋, I'm Md Hayatul Islam</h1>
+<h1 align="center">Hi 👋, I'm Hayatul Islam</h1>
 
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
