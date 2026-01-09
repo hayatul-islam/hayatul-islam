@@ -1,7 +1,6 @@
 <p>&nbsp;<img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQG8IPl9Fr-pbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729404338467?e=1767830400&v=beta&t=zQo3iUbI7v7NVIJGW_5_qXnJ_jfb3vLFj5KPbpAQ1QI" /></p>
 
 <h1 align="center">Hi 👋, I'm Hayatul Islam</h1>
-
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="hayatul-islam" /> </p>
