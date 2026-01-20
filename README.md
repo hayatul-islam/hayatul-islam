@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view?usp=sharing)
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hayatul-islam)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/hayatul)
   
 - 💡 Explore my problem-solving journey on [Codeforces](https://codeforces.com/profile/hayatul)
 
