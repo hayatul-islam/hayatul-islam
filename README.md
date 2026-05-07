@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQG8IPl9Fr-pbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729404338467?e=1767830400&v=beta&t=zQo3iUbI7v7NVIJGW_5_qXnJ_jfb3vLFj5KPbpAQ1QI" />
+  <img src="https://github.com/hayatul-islam/ASSETS/blob/main/images/hayatulislam.png" alt="Hayatul Islam Emon" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Hayatul Islam</h1>
