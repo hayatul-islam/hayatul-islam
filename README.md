@@ -2,7 +2,7 @@
   <img src="https://github.com/hayatul-islam/ASSETS/blob/main/images/hayatulislam.png" alt="Hayatul Islam Emon" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Hayatul Islam</h1>
+<h1 align="center">👋 Hi, I'm Hayatul Islam (Emon)</h1>
 
 <h3 align="center">
 Full Stack Developer (React, Next.js, Node.js, Express) | Frontend Developer | Problem Solver
