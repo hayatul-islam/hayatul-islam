@@ -53,12 +53,10 @@ Full Stack Developer (React, Next.js, Node.js, Express) | Frontend Developer | P
 - Flowchart-based concept visualization  
 - Audio learning support feature  
 - Token-based usage system  
-- Private client project  
 
 **Tech:** Next.js, Tailwind CSS  
 
-🔗 Live: https://gyanbeej.com/  
-🔒 Code: Private Client Project  
+🔗 Live: https://gyanbeej.com/
 
 ---
 
