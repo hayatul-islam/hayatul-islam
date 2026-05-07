@@ -29,46 +29,68 @@ Full Stack Developer (React, Next.js, Node.js, Express) | Frontend Developer | P
 **Apr 2023 – Mar 2024 (Remote)**  
 - Developed hospital & gym management dashboards  
 - Managed patients, appointments, attendance & nutrition modules  
-- Built reusable UI components for scalable frontend architecture  
-
----
-
-## 🚀 About Me
-
-- ⚡ 2+ years of professional experience (Remote + International teams)  
-- 🧠 Strong in React, Next.js, Node.js, and system design thinking  
-- 🔥 Built production-level LMS, Job Board & Form Builder systems  
-- 📈 Solved 300+ DSA problems (Codeforces + CodeChef)  
-- 🎯 Goal: Become a strong Software Engineer with system design expertise  
+- Built reusable UI components for scalable architecture  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 JobFlow — Full Stack Job Board System
+### 🧩 JobFlow — Full Stack Job Board System  
 - Role-based system (Employer / Candidate)  
 - Advanced job filtering + server-side pagination  
 - CV upload system using Multer & Cloudinary  
 - Application tracking system (Pending / Accepted / Rejected)  
-- **Tech:** Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma  
+
+**Tech:** Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma  
+
+🔗 Live: https://jobflow-24.netlify.app/  
+💻 GitHub: https://github.com/hayatul-islam/job-flow  
 
 ---
 
-### 🧱 Build Form — Drag & Drop Form Builder
+### 📚 Gyanbeej — AI Learning Platform  
+- AI-based interactive learning system  
+- Flowchart-based concept visualization  
+- Audio learning support feature  
+- Token-based usage system  
+- Private client project  
+
+**Tech:** Next.js, Tailwind CSS  
+
+🔗 Live: https://gyanbeej.com/  
+🔒 Code: Private Client Project  
+
+---
+
+### 🧱 Build Form — Drag & Drop Form Builder  
 - Custom drag-and-drop form builder  
 - Template system with real-time preview  
 - Auto code generation for integration  
 - Responsive UI (mobile / tablet / desktop)  
-- **Tech:** React, Tailwind CSS, Framer Motion  
+
+**Tech:** React, Tailwind CSS, Framer Motion  
+
+🔗 Live: https://form-builder-24.vercel.app/  
+💻 GitHub: https://github.com/hayatul-islam/form-builder  
 
 ---
 
-### 📚 Gyanbeej — AI Learning Platform
-- AI-based interactive learning system  
-- Flowchart-based concept breakdown  
-- Audio learning support feature  
-- Token-based usage system  
-- **Tech:** Next.js, Tailwind CSS  
+## 🧰 Skills
+
+**Frontend:**  
+React • Next.js • Redux • JavaScript (ES6+) • TypeScript • Tailwind CSS • Framer Motion  
+
+**Backend:**  
+Node.js • Express.js • REST APIs • JWT Authentication  
+
+**Database:**  
+PostgreSQL • Prisma • MongoDB  
+
+**Tools:**  
+Git • GitHub • Cloudinary • Postman • VS Code  
+
+**Programming:**  
+C • C++ • Data Structures & Algorithms (DSA)  
 
 ---
 
@@ -76,22 +98,21 @@ Full Stack Developer (React, Next.js, Node.js, Express) | Frontend Developer | P
 
 - 🟠 CodeChef: Max Rating **1298**  
 - 🟡 Codeforces: Max Rating **938**  
-- ⚙️ 300+ problems solved using C++ & STL  
+- ⚙️ 300+ problems solved using C++ STL  
 - 🧩 Strong in DP, recursion, graphs, greedy algorithms  
 
 ---
 
 ## 🌐 Connect With Me
 
+- 📧 Email: hayatulislam28@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/hayatul  
 - 🧠 Codeforces: https://codeforces.com/profile/hayatul  
 - 🔥 CodeChef: https://www.codechef.com/users/hayatul  
-- 📄 Resume: https://drive.google.com/...
+- 📄 Resume: https://drive.google.com/file/d/1ls2nf4TPup-FmWwZCPkrREDhdJBF5IxQ/view  
 
 ---
 
 ## ✨ Quote
 
 > “I don’t just write code, I build systems that solve real problems.”
-
----
