@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Hayatul Islam (Emon)</h1>
 
 <h3 align="center">
-Full Stack Developer (React, Next.js, Node.js, Express) | Frontend Developer | Problem Solver
+Full Stack Developer (React, Next.js, Node.js, Express) | Frontend Developer 
 </h3>
 
 <p align="left">
